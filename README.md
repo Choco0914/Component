@@ -10,3 +10,4 @@
 6. Component Nesting [x]
 7. Passing and Receiving Props [x]
 8. Passing Multiple Props [x]
+9. Implementing an Approval Card [x]
