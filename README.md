@@ -12,3 +12,4 @@
 8. Passing Multiple Props [x]
 9. Implementing an Approval Card [x]
 10. Showing Custom Children [x]
+11. Component Reuse [x]
