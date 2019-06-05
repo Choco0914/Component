@@ -2,4 +2,5 @@
 
 ## To-do List
 
-1. Getting Some free styling [x];
+1. Getting Some free styling [x]
+2. Naive Component Approach [x]
