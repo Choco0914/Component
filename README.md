@@ -9,3 +9,4 @@
 5. Extracting JSX to New Components [x]
 6. Component Nesting [x]
 7. Passing and Receiving Props [x]
+8. Passing Multiple Props [x]
