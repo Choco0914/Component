@@ -1,4 +1,5 @@
 import React from "react";
+import faker from "faker";
 
 const CommentDetial = () => {
   return (
@@ -17,3 +18,5 @@ const CommentDetial = () => {
     </div>
   );
 };
+
+export default CommentDetial;
